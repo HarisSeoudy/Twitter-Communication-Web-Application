@@ -1,0 +1,20 @@
+{
+  "name": "twittercommunicationwebapplication",
+  "version": "1.0.0",
+  "description": "An Artificial Intelligence powered Web Application that uses Twitter Mining to aid communication for those with difficulties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haris Seoudy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cfenv": "^1.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "sentiment": "^5.0.1",
+    "twit": "^2.2.11",
+    "watson-developer-cloud": "^3.16.1"
+  }
+}
