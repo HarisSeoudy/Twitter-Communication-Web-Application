@@ -2,7 +2,7 @@
 
 An Artificial Intelligence powered Web Application that uses Twitter Mining to aid communication for those with difficulties.
 
-You can find a live demo of the Twitter Communication Web Application [here](https://twittercommunication.mybluemix.net/).
+You can find a live demo of the Twitter Communication Web Application [here](https://twittercommunicationapp.eu-gb.mybluemix.net/).
 
 ![](screenshot.png)
 
